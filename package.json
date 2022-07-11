@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@dicebear/avatars": "^4.10.3",
+    "@dicebear/open-peeps": "^4.10.3",
+    "nuronjs": "^0.1.7"
+  }
+}
